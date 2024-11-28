@@ -1,0 +1,3 @@
+[submodule "side-quest"]
+	path = side-quest
+	url = git@github.com:mineiwik/advent-of-cyber-24-side-quest.git
